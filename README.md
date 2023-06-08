@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-![img](images/Movies.png)
+![img](https://github.com/paulbancelin/Final-Project/blob/main/Images/Movies.png)
 
 ## OBJECTIVE
 
